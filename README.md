@@ -8,7 +8,7 @@ src="IMG_20211118_113958.jpg" alt="IMG" width="220" height="200"/>
 
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/jishnusir">Midhunser</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/jishnusir">jishnuser</a>
     <br>
        | © |
         Reserved 
