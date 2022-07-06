@@ -8,7 +8,7 @@ src="IMG_20211118_113958.jpg" alt="IMG" width="220" height="200"/>
 
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/kalippan-minnuz">Midhunser</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/jishnusir">Midhunser</a>
     <br>
        | © |
         Reserved 
@@ -24,7 +24,7 @@ src="IMG_20211118_113958.jpg" alt="IMG" width="220" height="200"/>
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalippan-minnuz/Oggy_ser.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ravanan7/Oggy_ser.git)
 
 - - -
 </p>
